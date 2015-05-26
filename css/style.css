@@ -1,0 +1,49 @@
+/* The text alignment and  color for the heading. */
+h1 {
+	text-align: center;
+	color: #697800;
+}
+
+/* Use Sans-Serif font family */
+body {
+	font-family: Sans-Serif;
+  font-size: large;
+ }
+
+ 
+.lesson {
+	background-color: #697800;
+		color: white;
+	padding: 10px;
+  margin:10px;
+}
+
+h2 {
+	margin: 10px;
+}
+
+.section {
+	background-color: #BFCBF1;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: black;
+}
+
+.section-name {
+	font-size: 25px;
+	margin: 8px;
+	text-align: center;
+	color: #914860;
+}
+
+.section-details {
+	font-weight: lighter;
+	margin: 6px;
+}
+
+ 
+
+ 
+
+
